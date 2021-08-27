@@ -1,0 +1,27 @@
+body{
+    background-color: #ccffcc;
+    background-image: url('../../images/galaxy2.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 2000px;
+}
+h1{
+    color: aliceblue;
+}
+.topnav {
+    overflow: hidden;
+    background-color: 
+    #7e4f69;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: #f2f2f2;
+    color: #7e4f69;
+}
