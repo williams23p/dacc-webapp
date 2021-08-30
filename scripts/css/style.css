@@ -8,20 +8,34 @@ body{
 h1{
     color: #946931;
 }
-.topnav {
+ul.ulnav{
+    border-radius: 5px;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
     overflow: hidden;
-    background-color: 
-    #946931;
+    background-color: #946931 ;
 }
-.topnav a {
+li.linav{
     float: left;
+    
+}
+li.linav a{
     display: block;
-    color: #ecc8a4;
+    color:#ecc8a4;
     text-align: center;
-    padding: 14px 30px;
+    padding: 14px 16px;
     text-decoration: none;
 }
-.topnav a:hover {
-    background-color: #ecc8a4;
-    color: #946931;
+li.linav a.active{
+    display: block;
+    color:#462708;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
+li.linav a:hover{
+    background-color:#ecc8a4;
+    color:#946931;
+}
+
