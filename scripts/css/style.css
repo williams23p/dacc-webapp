@@ -14,7 +14,7 @@ ul.ulnav{
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    background-color: #946931 ;
+    background-color: #65625d ;
 }
 li.linav{
     float: left;
@@ -40,15 +40,41 @@ li.linav a:hover{
 }
 
 #background { 
-    width: 80%; 
-    height: 70%; 
-    background-color: rgba(255, 255, 255, 0.486);
+    border-radius: 20px;
+    width: 10%; 
+    height: 80%; 
+    background-color:#65625d7a;
+    
     position: absolute; 
-    left: 50%; 
+    left: 10%; 
     top: 50%; 
     transform: translate(-50%, -50%);
 }
-#para{
-    text-align: center;
-    font-size: 25px;
+#background1{
+    border-radius: 10px;
+    width: 65%;
+    height: 80%;
+    background-color: #65625d7a;
 
+    position:absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+span.maintitle{
+    text-align: center;
+    font-size: 30pt;
+}
+span.subtitle{
+    font-size: 25pt;
+    color:#f5eeda ;
+    font-family: Verdana;
+}
+
+img.cuh{
+    width: 120px;
+
+}
+img.cuh:hover{
+width: 130px;
+}
