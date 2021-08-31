@@ -110,6 +110,11 @@ img.cuh{
 img.cuh:hover{
 width: 130px;
 }
+img.cuh1{
+    width: 120px;
+    border-radius: 10px;
+
+}
 div.spam{
     text-align: center;
     min-width: 500px;
