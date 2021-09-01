@@ -124,6 +124,7 @@ img.cuh1{
 img.cuh:hover{
 width: 130px;
 }
+<<<<<<< HEAD
 #career{
     width: 300px;
     height: 180px;
@@ -140,6 +141,12 @@ p.main_text{
     color: #f5eeda;
     font-family:monospace;
     font-size: 30px;
+=======
+img.cuh1{
+    width: 120px;
+    border-radius: 10px;
+
+>>>>>>> 18d3139d37f906a0de6f87bfdfa2c5c945ba713d
 }
 div.spam{
     text-align: center;
