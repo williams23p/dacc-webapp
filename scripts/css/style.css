@@ -135,11 +135,18 @@ p.main_text{
     font-family:monospace;
     font-size: 20px;
 }
+span.main_text1{
+    padding-left: 10px;
+    color: #f5eeda;
+    font-family:monospace;
+    font-size: 20px;
+}
 #title{
     padding-left: 10px;
     color: #f5eeda;
     font-family:monospace;
     font-size: 30px;
+}
 img.cuh1{
     width: 120px;
     border-radius: 10px;
@@ -150,7 +157,7 @@ div.spam{
     font-size: 20pt;
     color: white;
 }
-#para{
+p.para{
     text-align: center;
     margin: 8px;
     font-size: 20pt;
@@ -158,6 +165,13 @@ div.spam{
 }
 li.contact{
     text-align: left;
+    font-family: monospace;
+    font-size: 18px;
+}
+p.contact1{
+    text-align: left;
+    font-family: monospace;
+    font-size: 30px;
 }
 #page_wrapper{
     border-radius: 10px;
@@ -166,4 +180,22 @@ li.contact{
     height: 800px;
     width: 700px;
     background: rgb(102,102,102,0.85);
+}
+img.scroll{
+    width: 185px;
+    height: auto;
+    margin-left: 23px;
+    
+}
+iframe.game{
+    margin-top: 100px;
+    margin-left: 180px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+#dub{
+    width: 200px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
 }
