@@ -199,3 +199,48 @@ iframe.game{
     border-radius: 10px;
     border: 2px solid black;
 }
+#dub2{
+    width: 140px;
+    height: 270px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#dub3{
+    width: 200px;
+    height: 130;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#test{
+    width: 200px;
+    height: 400;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: absolute;
+    left: 80%;
+    top: 60%;
+
+    transform: translate(-50%, -50%);
+}
+#lobby{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: absolute;
+    left: 78%;
+    top: 60%;
+
+    transform: translate(-50%, -50%);
+}
+#lists{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+    position: absolute;
+    left: 22%;
+    top: 60%;
+
+    transform: translate(-50%, -50%);
+}
