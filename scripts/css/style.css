@@ -244,3 +244,7 @@ iframe.game{
 
     transform: translate(-50%, -50%);
 }
+#video{
+    padding-left: 400px;
+    padding-bottom: 60px;
+}
