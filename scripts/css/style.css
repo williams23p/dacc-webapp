@@ -16,6 +16,8 @@ ul.ulnav{
     padding: 0px;
     overflow: hidden;
     background-color: #65625d ;
+    font-family: monospace;
+    font-size: 14pt;
 }
 /*for project nav bar*/
 ul.side{
@@ -188,8 +190,8 @@ img.scroll{
     
 }
 iframe.game{
-    margin-top: 100px;
-    margin-left: 180px;
+    margin-top: 45px;
+    margin-left: 175px;
     border-radius: 10px;
     border: 3px solid black;
 }
@@ -247,4 +249,10 @@ iframe.game{
 #video{
     padding-left: 400px;
     padding-bottom: 60px;
+}
+#gtitle{
+    font-size: 30pt;
+    font-family: monospace;
+    color:#f5eeda;
+    margin-right: 15px;
 }
