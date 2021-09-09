@@ -159,6 +159,13 @@ div.spam{
     font-size: 20pt;
     color: white;
 }
+p.para1{
+    text-align: center;
+    margin: 8px;
+    font-size: 20pt;
+    font-family: monospace;
+    margin-top: 250px;
+}
 p.para{
     text-align: center;
     margin: 8px;
