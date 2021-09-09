@@ -181,6 +181,7 @@ p.contact1{
     text-align: left;
     font-family: monospace;
     font-size: 30px;
+    margin-left: 35px;
 }
 #page_wrapper{
     border-radius: 10px;
